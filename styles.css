@@ -1,0 +1,32 @@
+/* body{
+    background-color: lightblue;
+} */
+
+#title   {
+    color: darkblue;
+    text-align: center;
+    font-family: fantasy;
+}
+
+/* p {
+    color:mediumaquamarine;
+    background-color: black;
+} */
+
+.p-large {
+    font-size:32px;
+}
+
+.p-green {
+    color:green;
+    background-color: pink;
+}
+
+.p-red {
+    color:red;
+    background-color:black;
+}
+
+/* h1 {
+    color:red
+} */

@@ -1,0 +1,34 @@
+body {
+    background-color: #74a4fd;
+    border:7px inset Tomato;
+    background-image: url("https://i.gifer.com/76YS.gif");
+    background-attachment: fixed;
+}
+
+h1{
+	color: rgba(131, 205, 205, 0.984);
+    text-align: center;
+}
+
+#subtitulo{
+    color:rgb(207, 207, 224);
+    text-decoration: white;
+}
+
+p{
+    color:rgba(24, 192, 192, 0.984);
+    font-size: 15px;
+    font-family: "Audiowide", sans-serif;
+    
+}
+
+h4{
+    color:darksalmon;
+    font-family: "Georgia";
+}
+
+#lista{
+    color:rgb(217, 159, 159);
+    font-size: 20px;
+    font-family:""
+}
