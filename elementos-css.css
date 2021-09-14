@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://cdn.pixabay.com/photo/2020/09/03/03/43/abstract-5540113_1280.png");
+    background-size: cover;
+}
+
+.title {
+    text-align:center;
+    color:royalblue;
+    background-color:black;
+    border: 5px dotted red;
+}
+
+.subtitle {
+    background-color: red;
+    color: white;
+    text-align: center;
+    padding: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+}
+
+#caja {
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    margin: 10% auto;
+    /* margin-top: 100px;
+    margin-bottom: 50px; */
+}
+
+#caja p {
+    color:white;
+}
+
