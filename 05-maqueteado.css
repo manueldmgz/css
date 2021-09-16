@@ -1,0 +1,29 @@
+body{
+    background-color:rgba(136, 169, 225, 0.511);
+}
+
+h1{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    letter-spacing: 15px;
+}
+
+h3{
+    background-color: gray;
+    color:white;
+}
+
+section {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.contenedor{
+    float:left;
+    margin: 20px;
+}
+
+p {
+    text-indent: 20px;
+}
+
