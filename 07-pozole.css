@@ -6,5 +6,25 @@ header{
 }
 
 header > p{
-    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.botones{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.boton1{
+    background-color:orange;
+}
+
+div.boton2{
+    background-color:orange;
+}
+div.boton3{
+    background-color:orange;
 }
