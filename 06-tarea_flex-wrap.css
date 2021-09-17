@@ -1,0 +1,41 @@
+body{
+    background-color:rgb(243, 121, 121);
+    font-family: 'Francois One', sans-serif;
+    font-weight:1900;
+    font-size:150px;
+}
+
+.contenedor-flex,.contenedor-flex-abajo{
+    display:flex;
+    flex-wrap:nowrap;
+    justify-content: center;
+}
+
+.contenedor-flex > div{
+    background-color:rgb(71, 141, 239);
+    width: 200px;
+    margin: 10px;
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+    text-align: center;
+    color:white;
+    padding: 20px;
+}
+
+.contenedor-flex-abajo > div{
+    background-color:rgb(71, 141, 239);
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    color:white;
+    padding: 20px;
+    border-style:solid;
+    border-width:1px;
+    border-color:black;
+}
+
+.contenedor-flex-abajo > .none{
+    background-color:rgb(243, 121, 121);
+    border-color:rgb(243, 121, 121);
+    }

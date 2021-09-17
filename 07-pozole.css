@@ -1,0 +1,10 @@
+header{
+    display:flex;
+    flex-direction: row;
+    background-color:black;
+    color:white;
+}
+
+header > p{
+    text-align: center;
+}
